@@ -34,7 +34,7 @@
 ### 🎓 Education
 
 * **MCA – VIT Chennai (2025–2027)** | CGPA: 8.69
-* **BCA – MIT Pune (2022–2025)** | CGPA: 8.46
+* **BCA – MITWPU Pune (2022–2025)** | CGPA: 8.46
 
 ---
 
