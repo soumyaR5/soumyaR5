@@ -1,23 +1,23 @@
 ## 👩‍💻 Soumya Ramchandran
 
-**Aspiring Data Analyst | BI Enthusiast | Python & SQL Learner**
+**Aspiring Data Analyst | AI/ML Enthusiast | Python & SQL Learner**
 
 ---
 
 ### 🚀 About Me
 
-* Interested in Data Analytics & Business Intelligence
-* Currently learning Python, SQL, and Machine Learning
-* Building real-world data projects
+**MCA candidate at VIT Chennai with hands-on experience in LLM systems, RAG pipelines, and deep learning.**
+**I enjoy building real-world AI and data-driven applications using Python, FastAPI, and modern ML frameworks.**
 
 ---
 
 ### 🛠️ Skills & Tools
 
-* **Languages:** Python, SQL, Java
-* **Libraries:** Pandas, NumPy, Matplotlib
-* **Tools:** Excel, Power BI
-* **Concepts:** Data Cleaning, EDA, Data Visualization
+* **Programming: Python, Java (Spring Boot), React, Angular**
+* **Core Concepts: OOP, Data Structures & Algorithms**
+* **Data & ML: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, CNN**
+* **Databases: PostgreSQL, MySQL, MongoDB, SQL (Joins, Aggregations)**
+* **Tools: Streamlit, Power BI, Excel, Ollama, GitHub, VS Code**
 
 ---
 
@@ -28,6 +28,13 @@
 * 🔹 **SQL Tutor & Query Debugger**
 * 🔹 **Resume Analyzer**
 * 🔹 **ATS Score (Deep Learning vs Machine Learning)** 
+
+---
+
+### 🎓 Education
+
+* **MCA – VIT Chennai (2025–2027)** | CGPA: 8.69
+* **BCA – MIT Pune (2022–2025)** | CGPA: 8.46
 
 ---
 
