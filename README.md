@@ -35,6 +35,6 @@
 
 ---
 
-### 📊 GitHub Stats (Optional)
+### 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyaR5\&show_icons=true)
