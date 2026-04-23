@@ -25,6 +25,9 @@
 
 * 🔹 **Self-Pruning Neural Network**
 * 🔹 **Black Friday Sales Analysis & Prediction**
+* 🔹 **SQL Tutor & Query Debugger**
+* 🔹 **Resume Analyzer**
+* 🔹 **ATS Score (Deep Learning vs Machine Learning)** 
 
 ---
 
