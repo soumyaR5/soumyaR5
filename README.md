@@ -1,4 +1,4 @@
-##👩‍💻 Soumya Ramchandran
+## 👩‍💻 Soumya Ramchandran
 
 Aspiring Data Analyst | BI Enthusiast | Python & SQL Learner
 
