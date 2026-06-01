@@ -41,10 +41,4 @@
 ### 📫 Contact Me
 
 * **LinkedIn:** [https://www.linkedin.com/in/soumya-ramchandran-43485632a/](https://www.linkedin.com/in/soumya-ramchandran-43485632a/)
-* **Email:** [soumyaramchandran5@gmail.com](mailto:soumyaramchandran5@gmail.com)
 
----
-
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyaR5\&show_icons=true)
